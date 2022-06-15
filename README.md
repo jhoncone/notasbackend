@@ -1,6 +1,6 @@
 # notasbackend
 
-api url
+
 /api
 
 endpoints
